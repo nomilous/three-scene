@@ -1,0 +1,19 @@
+{
+  "name": "three-scene",
+  "repo": "nomilous/three-scene",
+  "description": "three.js - scene",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "nomilous/three": "*",
+    "monilous/three-camera": "*",
+    "nomilous/three-object": "*",
+    "nomilous/three-color": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
