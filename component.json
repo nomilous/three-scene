@@ -6,7 +6,7 @@
   "keywords": [],
   "dependencies": {
     "nomilous/three": "*",
-    "nonilous/three-camera": "*",
+    "nomilous/three-camera": "*",
     "nomilous/three-object": "*",
     "nomilous/three-color": "*"
   },
